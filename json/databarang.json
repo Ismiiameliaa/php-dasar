@@ -1,0 +1,37 @@
+[
+    {
+        "code": "1",
+        "name": "Minyak Fortune 5 Liter",
+        "price": "85000",
+        "stock": "18",
+        "option": null
+    },
+    {
+        "code": "2",
+        "name": "Beras Matahari 20 Kilo",
+        "price": "220000",
+        "stock": "20",
+        "option": null
+    },
+    {
+        "code": "3",
+        "name": "Minyak Bimoli 5 Liter",
+        "price": "87000",
+        "stock": "18",
+        "option": null
+    },
+    {
+        "code": "4",
+        "name": "Beras Mawar Merah 20 Kilo",
+        "price": "225000",
+        "stock": "16",
+        "option": null
+    },
+    {
+        "code": "6",
+        "name": "Kecap ABC 5 Liter",
+        "price": "130000",
+        "stock": "30",
+        "option": null
+    }
+]
